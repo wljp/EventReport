@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Welcome to WL Japan Event Report Site
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+このサイトでは、過去のWomen in Localization Japanで行われた、過去のイベントのレポートを配信しています。
 
-## Commands
+ご連絡は[こちら](mailto:ja.chapter@womeninlocalization.com)まで
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## 次回イベントのご案内
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+TBD

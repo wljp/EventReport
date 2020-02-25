@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Welcome to WL Japan Event Report Site
+nav:
+    - Home: index.md
+    - Past Event:
+      - "第1回": "past_event/01.md"
+      - "第2回": "past_event/02.md"
+      - "第3回": "past_event/03.md"
+      - "第4回": "past_event/04.md"
+      - "第5回": "past_event/05.md"
+      - "第6回": "past_event/06.md"
+      - "第7回": "past_event/07.md"
+theme: readthedocs
