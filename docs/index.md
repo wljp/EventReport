@@ -7,11 +7,12 @@
 ## 次回イベントのご案内
 
 ### 申し込みページ
-https://www.eventbrite.com/e/women-in-localization-japan-event-on-sep16-2020-registration-118276723865
+[こちら](https://www.eventbrite.com/e/women-in-localization-japan-event-on-sep16-2020-registration-118276723865)
 
 ### 申し込み期限
 9月14日中
 
+### アジェンダ
 | Time | Title |
 | ----- | --- |
 | 11:55-12:00 | Opening (WL Japan Chapter Manager)
