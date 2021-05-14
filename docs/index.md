@@ -4,9 +4,9 @@
 
 ご連絡は[こちら](mailto:ja.chapter@womeninlocalization.com)まで
 
-## 次回イベントのご案内
+<!-- ## 次回イベントのご案内
 
-TBD
+TBD -->
 
 <!-- ### 申し込みページ -->
 <!-- [こちら](https://www.eventbrite.com/e/women-in-localization-japan-event-on-sep16-2020-registration-118276723865) -->
