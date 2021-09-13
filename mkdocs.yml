@@ -28,6 +28,7 @@ nav:
       - "第24回": "past_event/24.md"
       - "第25回": "past_event/25.md"
       - "第26回": "past_event/26.md"
+      - "第27回": "past_event/27.md"
 theme:
     name: material
 extra:
