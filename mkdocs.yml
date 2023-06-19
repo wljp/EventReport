@@ -34,6 +34,7 @@ nav:
         - "第30回": "past_event/30.md"
         - "第31回": "past_event/31.md"
         - "第32回": "past_event/32.md"
+        - "第32回": "past_event/33.md"
 theme:
     name: material
 extra:
